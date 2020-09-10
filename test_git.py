@@ -7,3 +7,4 @@ class Car:
 if __name__ == '__main__':
 	Car()
 	Car()
+	Car()
